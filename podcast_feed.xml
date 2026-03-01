@@ -5,7 +5,7 @@
     <description>Bite-sized, deep-dive discussions on O-Level Physics and beyond. Each episode breaks down a topic from the CuriousLab classroom into an engaging, easy-to-follow conversation. Perfect for students who want to truly understand — not just memorise.</description>
     <language>en</language>
     <link>https://curiouslab.sg</link>
-    <lastBuildDate>Sun, 01 Mar 2026 15:11:50 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 20:26:48 +0800</lastBuildDate>
     <generator>CuriousLab Content Mill</generator>
     <itunes:author>CuriousLab</itunes:author>
     <itunes:summary>Bite-sized, deep-dive discussions on O-Level Physics and beyond. Each episode breaks down a topic from the CuriousLab classroom into an engaging, easy-to-follow conversation. Perfect for students who want to truly understand — not just memorise.</itunes:summary>
@@ -17,6 +17,12 @@
     <itunes:category text="Education">
       <itunes:category text="Courses"/>
     </itunes:category>
+    <itunes:image href="https://curiouslabsg.github.io/curiouslab-podcast-rss/podcast_cover.jpg"/>
+    <image>
+      <url>https://curiouslabsg.github.io/curiouslab-podcast-rss/podcast_cover.jpg</url>
+      <title>CuriousLab — Making Science Click</title>
+      <link>https://curiouslab.sg</link>
+    </image>
     <atom:link href="https://curiouslabsg.github.io/curiouslab-podcast-rss/podcast_feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Turning Effect of Forces</title>
