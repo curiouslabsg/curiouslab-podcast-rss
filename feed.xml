@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>CuriousLab — Making Science Click</title>
+    <description>Bite-sized, deep-dive discussions on O-Level Physics and beyond. Each episode breaks down a topic from the CuriousLab classroom into an engaging, easy-to-follow conversation. Perfect for students who want to truly understand — not just memorise.</description>
+    <language>en</language>
+    <link>https://curiouslab.sg</link>
+    <lastBuildDate>Tue, 03 Mar 2026 17:16:45 +0800</lastBuildDate>
+    <generator>CuriousLab Content Mill</generator>
+    <itunes:author>CuriousLab</itunes:author>
+    <itunes:summary>Bite-sized, deep-dive discussions on O-Level Physics and beyond. Each episode breaks down a topic from the CuriousLab classroom into an engaging, easy-to-follow conversation. Perfect for students who want to truly understand — not just memorise.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>CuriousLab</itunes:name>
+      <itunes:email>hello@curiouslab.sg</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Education">
+      <itunes:category text="Courses"/>
+    </itunes:category>
+    <itunes:image href="https://curiouslabsg.github.io/curiouslab-podcast-rss/podcast_cover.jpg"/>
+    <image>
+      <url>https://curiouslabsg.github.io/curiouslab-podcast-rss/podcast_cover.jpg</url>
+      <title>CuriousLab — Making Science Click</title>
+      <link>https://curiouslab.sg</link>
+    </image>
+    <atom:link href="https://curiouslabsg.github.io/curiouslab-podcast-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Work, Energy and Power</title>
+      <description>A deep-dive discussion on Work, Energy and Power. Part of the CuriousLab — Making Science Click podcast series.</description>
+      <pubDate>Mon, 02 Mar 2026 15:15:40 GMT</pubDate>
+      <guid isPermaLink="false">curiouslab-20260302151540-ep11</guid>
+      <enclosure url="https://curiouslabsg.github.io/curiouslab-podcast-rss/audio/04MAR2026_Work_Energy_and_Power_Podcast.mp3" length="19271493" type="audio/mpeg"/>
+      <itunes:duration>22:16</itunes:duration>
+      <itunes:summary>A deep-dive discussion on Work, Energy and Power. Part of the CuriousLab — Making Science Click podcast series.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>11</itunes:episode>
+    </item>
+    <item>
+      <title>Why Memorising Alone Fails in Science</title>
+      <description>A deep-dive discussion on Why Memorising Alone Fails in Science. Part of the CuriousLab — Making Science Click podcast series.</description>
+      <pubDate>Sun, 01 Mar 2026 13:39:38 GMT</pubDate>
+      <guid isPermaLink="false">curiouslab-20260301133938-ep10</guid>
+      <enclosure url="https://curiouslabsg.github.io/curiouslab-podcast-rss/audio/03MAR2026_Why_Memorising_Alone_Fails_in_Science_Podcast.mp3" length="19816699" type="audio/mpeg"/>
+      <itunes:duration>23:06</itunes:duration>
+      <itunes:summary>A deep-dive discussion on Why Memorising Alone Fails in Science. Part of the CuriousLab — Making Science Click podcast series.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>10</itunes:episode>
+    </item>
+    <item>
+      <title>Turning Effect of Forces</title>
+      <description>A deep-dive discussion on Turning Effect of Forces. Part of the CuriousLab — Making Science Click podcast series.</description>
+      <pubDate>Sun, 01 Mar 2026 05:30:01 GMT</pubDate>
+      <guid isPermaLink="false">curiouslab-20260301053001-ep9</guid>
+      <enclosure url="https://curiouslabsg.github.io/curiouslab-podcast-rss/audio/03MAR2026_Turning_Effect_of_Forces_Podcast.mp3" length="17448407" type="audio/mpeg"/>
+      <itunes:duration>20:16</itunes:duration>
+      <itunes:summary>A deep-dive discussion on Turning Effect of Forces. Part of the CuriousLab — Making Science Click podcast series.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>9</itunes:episode>
+    </item>
+    <item>
+      <title>What Parents Should Look For in Tuition</title>
+      <description>A deep-dive discussion on What Parents Should Look For in Tuition. Part of the CuriousLab — Making Science Click podcast series.</description>
+      <pubDate>Sat, 28 Feb 2026 15:45:59 GMT</pubDate>
+      <guid isPermaLink="false">curiouslab-20260228154559-ep8</guid>
+      <enclosure url="https://curiouslabsg.github.io/curiouslab-podcast-rss/audio/02MAR2026_What_Parents_Should_Look_For_in_Tuition_Podcast.mp3" length="18175982" type="audio/mpeg"/>
+      <itunes:duration>21:03</itunes:duration>
+      <itunes:summary>A deep-dive discussion on What Parents Should Look For in Tuition. Part of the CuriousLab — Making Science Click podcast series.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>8</itunes:episode>
+    </item>
+    <item>
+      <title>Dynamics</title>
+      <description>A deep-dive discussion on Dynamics. Part of the CuriousLab — Making Science Click podcast series.</description>
+      <pubDate>Sat, 28 Feb 2026 15:08:01 GMT</pubDate>
+      <guid isPermaLink="false">curiouslab-20260228150801-ep7</guid>
+      <enclosure url="https://curiouslabsg.github.io/curiouslab-podcast-rss/audio/02MAR2026_Dynamics_Podcast.mp3" length="23590451" type="audio/mpeg"/>
+      <itunes:duration>27:38</itunes:duration>
+      <itunes:summary>A deep-dive discussion on Dynamics. Part of the CuriousLab — Making Science Click podcast series.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>7</itunes:episode>
+    </item>
+    <item>
+      <title>Kinematics</title>
+      <description>A deep-dive discussion on Kinematics. Part of the CuriousLab — Making Science Click podcast series.</description>
+      <pubDate>Fri, 27 Feb 2026 17:22:33 GMT</pubDate>
+      <guid isPermaLink="false">curiouslab-20260227172233-ep6</guid>
+      <enclosure url="https://curiouslabsg.github.io/curiouslab-podcast-rss/audio/01MAR2026_Kinematics_Podcast.mp3" length="15606696" type="audio/mpeg"/>
+      <itunes:duration>18:04</itunes:duration>
+      <itunes:summary>A deep-dive discussion on Kinematics. Part of the CuriousLab — Making Science Click podcast series.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>6</itunes:episode>
+    </item>
+    <item>
+      <title>Why Studying Hard ≠ Studying Smart</title>
+      <description>The science behind effective learning: why effort alone isn't enough, and how to study smarter using evidence-based techniques like spaced repetition and active recall.</description>
+      <pubDate>Fri, 27 Feb 2026 15:44:57 GMT</pubDate>
+      <guid isPermaLink="false">curiouslab-20260227154457-ep5</guid>
+      <enclosure url="https://curiouslabsg.github.io/curiouslab-podcast-rss/audio/28FEB2026_Why_Studying_Hard_Studying_Smart_Podcast.mp3" length="16789429" type="audio/mpeg"/>
+      <itunes:duration>19:57</itunes:duration>
+      <itunes:summary>The science behind effective learning: why effort alone isn't enough, and how to study smarter using evidence-based techniques like spaced repetition and active recall.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <title>Measurement — Precision, Accuracy &amp; SI Units</title>
+      <description>Everything about measurement in physics: SI units, prefixes, significant figures, precision vs accuracy, and common instruments. A must-know for exam success.</description>
+      <pubDate>Fri, 27 Feb 2026 15:43:45 GMT</pubDate>
+      <guid isPermaLink="false">curiouslab-20260227154345-ep4</guid>
+      <enclosure url="https://curiouslabsg.github.io/curiouslab-podcast-rss/audio/28FEB2026_Measurement_Podcast.mp3" length="20885740" type="audio/mpeg"/>
+      <itunes:duration>23:56</itunes:duration>
+      <itunes:summary>Everything about measurement in physics: SI units, prefixes, significant figures, precision vs accuracy, and common instruments. A must-know for exam success.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <title>Turning Effect of Forces — Moments &amp; Equilibrium</title>
+      <description>Understanding moments, torque, the principle of moments, and conditions for equilibrium. Essential concepts for O-Level Physics.</description>
+      <pubDate>Fri, 27 Feb 2026 15:43:16 GMT</pubDate>
+      <guid isPermaLink="false">curiouslab-20260227154316-ep3</guid>
+      <enclosure url="https://curiouslabsg.github.io/curiouslab-podcast-rss/audio/19FEB2026_Turning_Effect_of_Forces_Podcast.mp3" length="15677245" type="audio/mpeg"/>
+      <itunes:duration>18:35</itunes:duration>
+      <itunes:summary>Understanding moments, torque, the principle of moments, and conditions for equilibrium. Essential concepts for O-Level Physics.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <title>Dynamics — Forces and Newton's Laws</title>
+      <description>Exploring the world of forces, Newton's three laws of motion, and how they govern everything from falling apples to rocket launches.</description>
+      <pubDate>Fri, 27 Feb 2026 15:42:15 GMT</pubDate>
+      <guid isPermaLink="false">curiouslab-20260227154215-ep2</guid>
+      <enclosure url="https://curiouslabsg.github.io/curiouslab-podcast-rss/audio/18FEB2026_Dynamics_Podcast.mp3" length="18456456" type="audio/mpeg"/>
+      <itunes:duration>21:45</itunes:duration>
+      <itunes:summary>Exploring the world of forces, Newton's three laws of motion, and how they govern everything from falling apples to rocket launches.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+    <item>
+      <title>Kinematics — Motion, Speed &amp; Velocity</title>
+      <description>A deep dive into kinematics: understanding motion, speed, velocity, and acceleration. Perfect for O-Level Physics students tackling this foundational topic.</description>
+      <pubDate>Fri, 27 Feb 2026 15:41:42 GMT</pubDate>
+      <guid isPermaLink="false">curiouslab-20260227154142-ep1</guid>
+      <enclosure url="https://curiouslabsg.github.io/curiouslab-podcast-rss/audio/17Feb2026_Kinematics_Podcast.mp3" length="13457733" type="audio/mpeg"/>
+      <itunes:duration>15:34</itunes:duration>
+      <itunes:summary>A deep dive into kinematics: understanding motion, speed, velocity, and acceleration. Perfect for O-Level Physics students tackling this foundational topic.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+    </item>
+  </channel>
+</rss>
