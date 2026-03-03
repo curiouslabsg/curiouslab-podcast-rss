@@ -5,11 +5,12 @@
     <description>Bite-sized, deep-dive discussions on O-Level Physics and beyond. Each episode breaks down a topic from the CuriousLab classroom into an engaging, easy-to-follow conversation. Perfect for students who want to truly understand — not just memorise.</description>
     <language>en</language>
     <link>https://curiouslab.sg</link>
-    <lastBuildDate>Tue, 03 Mar 2026 15:49:58 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 17:01:39 +0800</lastBuildDate>
     <generator>CuriousLab Content Mill</generator>
     <itunes:author>CuriousLab</itunes:author>
     <itunes:summary>Bite-sized, deep-dive discussions on O-Level Physics and beyond. Each episode breaks down a topic from the CuriousLab classroom into an engaging, easy-to-follow conversation. Perfect for students who want to truly understand — not just memorise.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
     <itunes:owner>
       <itunes:name>CuriousLab</itunes:name>
       <itunes:email>hello@curiouslab.sg</itunes:email>
@@ -33,6 +34,7 @@
       <itunes:duration>22:16</itunes:duration>
       <itunes:summary>A deep-dive discussion on Work, Energy and Power. Part of the CuriousLab — Making Science Click podcast series.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>11</itunes:episode>
     </item>
     <item>
@@ -44,6 +46,7 @@
       <itunes:duration>23:06</itunes:duration>
       <itunes:summary>A deep-dive discussion on Why Memorising Alone Fails in Science. Part of the CuriousLab — Making Science Click podcast series.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>10</itunes:episode>
     </item>
     <item>
@@ -55,6 +58,7 @@
       <itunes:duration>20:16</itunes:duration>
       <itunes:summary>A deep-dive discussion on Turning Effect of Forces. Part of the CuriousLab — Making Science Click podcast series.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>9</itunes:episode>
     </item>
     <item>
@@ -66,6 +70,7 @@
       <itunes:duration>21:03</itunes:duration>
       <itunes:summary>A deep-dive discussion on What Parents Should Look For in Tuition. Part of the CuriousLab — Making Science Click podcast series.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>8</itunes:episode>
     </item>
     <item>
@@ -77,6 +82,7 @@
       <itunes:duration>27:38</itunes:duration>
       <itunes:summary>A deep-dive discussion on Dynamics. Part of the CuriousLab — Making Science Click podcast series.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>7</itunes:episode>
     </item>
     <item>
@@ -88,6 +94,7 @@
       <itunes:duration>18:04</itunes:duration>
       <itunes:summary>A deep-dive discussion on Kinematics. Part of the CuriousLab — Making Science Click podcast series.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>6</itunes:episode>
     </item>
     <item>
@@ -99,6 +106,7 @@
       <itunes:duration>19:57</itunes:duration>
       <itunes:summary>The science behind effective learning: why effort alone isn't enough, and how to study smarter using evidence-based techniques like spaced repetition and active recall.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>5</itunes:episode>
       <itunes:season>1</itunes:season>
     </item>
@@ -111,6 +119,7 @@
       <itunes:duration>23:56</itunes:duration>
       <itunes:summary>Everything about measurement in physics: SI units, prefixes, significant figures, precision vs accuracy, and common instruments. A must-know for exam success.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>4</itunes:episode>
       <itunes:season>1</itunes:season>
     </item>
@@ -123,6 +132,7 @@
       <itunes:duration>18:35</itunes:duration>
       <itunes:summary>Understanding moments, torque, the principle of moments, and conditions for equilibrium. Essential concepts for O-Level Physics.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>3</itunes:episode>
       <itunes:season>1</itunes:season>
     </item>
@@ -135,6 +145,7 @@
       <itunes:duration>21:45</itunes:duration>
       <itunes:summary>Exploring the world of forces, Newton's three laws of motion, and how they govern everything from falling apples to rocket launches.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>2</itunes:episode>
       <itunes:season>1</itunes:season>
     </item>
@@ -147,6 +158,7 @@
       <itunes:duration>15:34</itunes:duration>
       <itunes:summary>A deep dive into kinematics: understanding motion, speed, velocity, and acceleration. Perfect for O-Level Physics students tackling this foundational topic.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
     </item>
