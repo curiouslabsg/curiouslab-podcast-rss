@@ -5,7 +5,7 @@
     <description>Bite-sized, deep-dive discussions on O-Level Physics and beyond. Each episode breaks down a topic from the CuriousLab classroom into an engaging, easy-to-follow conversation. Perfect for students who want to truly understand — not just memorise.</description>
     <language>en</language>
     <link>https://curiouslab.sg</link>
-    <lastBuildDate>Tue, 03 Mar 2026 17:01:39 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 10:50:08 +0800</lastBuildDate>
     <generator>CuriousLab Content Mill</generator>
     <itunes:author>CuriousLab</itunes:author>
     <itunes:summary>Bite-sized, deep-dive discussions on O-Level Physics and beyond. Each episode breaks down a topic from the CuriousLab classroom into an engaging, easy-to-follow conversation. Perfect for students who want to truly understand — not just memorise.</itunes:summary>
@@ -18,13 +18,13 @@
     <itunes:category text="Education">
       <itunes:category text="Courses"/>
     </itunes:category>
-    <itunes:image href="https://curiouslabsg.github.io/curiouslab-podcast-rss/podcast_cover.jpg"/>
+    <itunes:image href="https://curiouslabsg.github.io/curiouslab-podcast-rss/cover.jpg"/>
     <image>
-      <url>https://curiouslabsg.github.io/curiouslab-podcast-rss/podcast_cover.jpg</url>
+      <url>https://curiouslabsg.github.io/curiouslab-podcast-rss/cover.jpg</url>
       <title>CuriousLab — Making Science Click</title>
       <link>https://curiouslab.sg</link>
     </image>
-    <atom:link href="https://curiouslabsg.github.io/curiouslab-podcast-rss/podcast_feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://curiouslabsg.github.io/curiouslab-podcast-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Work, Energy and Power</title>
       <description>A deep-dive discussion on Work, Energy and Power. Part of the CuriousLab — Making Science Click podcast series.</description>
