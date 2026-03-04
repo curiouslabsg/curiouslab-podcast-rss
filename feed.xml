@@ -5,7 +5,7 @@
     <description>Bite-sized, deep-dive discussions on O-Level Physics and beyond. Each episode breaks down a topic from the CuriousLab classroom into an engaging, easy-to-follow conversation. Perfect for students who want to truly understand — not just memorise.</description>
     <language>en</language>
     <link>https://curiouslab.sg</link>
-    <lastBuildDate>Wed, 04 Mar 2026 10:50:08 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 23:26:39 +0800</lastBuildDate>
     <generator>CuriousLab Content Mill</generator>
     <itunes:author>CuriousLab</itunes:author>
     <itunes:summary>Bite-sized, deep-dive discussions on O-Level Physics and beyond. Each episode breaks down a topic from the CuriousLab classroom into an engaging, easy-to-follow conversation. Perfect for students who want to truly understand — not just memorise.</itunes:summary>
@@ -25,6 +25,18 @@
       <link>https://curiouslab.sg</link>
     </image>
     <atom:link href="https://curiouslabsg.github.io/curiouslab-podcast-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pressure</title>
+      <description>A deep-dive discussion on Pressure. Part of the CuriousLab — Making Science Click podcast series.</description>
+      <pubDate>Wed, 04 Mar 2026 15:26:39 GMT</pubDate>
+      <guid isPermaLink="false">curiouslab-20260304152639-ep12</guid>
+      <enclosure url="https://curiouslabsg.github.io/curiouslab-podcast-rss/audio/05MAR2026_Pressure_Podcast.mp3" length="18696666" type="audio/mpeg"/>
+      <itunes:duration>21:46</itunes:duration>
+      <itunes:summary>A deep-dive discussion on Pressure. Part of the CuriousLab — Making Science Click podcast series.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>12</itunes:episode>
+    </item>
     <item>
       <title>Work, Energy and Power</title>
       <description>A deep-dive discussion on Work, Energy and Power. Part of the CuriousLab — Making Science Click podcast series.</description>
