@@ -5,7 +5,7 @@
     <description>Bite-sized, deep-dive discussions on O-Level Physics and beyond. Each episode breaks down a topic from the CuriousLab classroom into an engaging, easy-to-follow conversation. Perfect for students who want to truly understand — not just memorise.</description>
     <language>en</language>
     <link>https://curiouslab.sg</link>
-    <lastBuildDate>Fri, 06 Mar 2026 21:56:52 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 22:05:35 +0800</lastBuildDate>
     <generator>CuriousLab Content Mill</generator>
     <itunes:author>CuriousLab</itunes:author>
     <itunes:summary>Bite-sized, deep-dive discussions on O-Level Physics and beyond. Each episode breaks down a topic from the CuriousLab classroom into an engaging, easy-to-follow conversation. Perfect for students who want to truly understand — not just memorise.</itunes:summary>
@@ -25,6 +25,18 @@
       <link>https://curiouslab.sg</link>
     </image>
     <atom:link href="https://curiouslabsg.github.io/curiouslab-podcast-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kinetic Model of Matter</title>
+      <description>A deep-dive discussion on Kinetic Model of Matter. Part of the CuriousLab — Making Science Click podcast series.</description>
+      <pubDate>Fri, 06 Mar 2026 14:05:35 GMT</pubDate>
+      <guid isPermaLink="false">curiouslab-20260306140535-ep14</guid>
+      <enclosure url="https://curiouslabsg.github.io/curiouslab-podcast-rss/audio/07MAR2026_Kinetic_Model_of_Matter_Podcast.mp3" length="19081214" type="audio/mpeg"/>
+      <itunes:duration>22:10</itunes:duration>
+      <itunes:summary>A deep-dive discussion on Kinetic Model of Matter. Part of the CuriousLab — Making Science Click podcast series.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>14</itunes:episode>
+    </item>
     <item>
       <title>Kinetic Model of Matter</title>
       <description>A deep-dive discussion on Kinetic Model of Matter. Part of the CuriousLab — Making Science Click podcast series.</description>
