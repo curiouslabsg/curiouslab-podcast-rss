@@ -5,7 +5,7 @@
     <description>Bite-sized, deep-dive discussions on O-Level Physics and beyond. Each episode breaks down a topic from the CuriousLab classroom into an engaging, easy-to-follow conversation. Perfect for students who want to truly understand — not just memorise.</description>
     <language>en</language>
     <link>https://curiouslab.sg</link>
-    <lastBuildDate>Fri, 06 Mar 2026 22:05:35 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 22:13:37 +0800</lastBuildDate>
     <generator>CuriousLab Content Mill</generator>
     <itunes:author>CuriousLab</itunes:author>
     <itunes:summary>Bite-sized, deep-dive discussions on O-Level Physics and beyond. Each episode breaks down a topic from the CuriousLab classroom into an engaging, easy-to-follow conversation. Perfect for students who want to truly understand — not just memorise.</itunes:summary>
@@ -25,6 +25,18 @@
       <link>https://curiouslab.sg</link>
     </image>
     <atom:link href="https://curiouslabsg.github.io/curiouslab-podcast-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why Students Plateau at B Grades</title>
+      <description>A deep-dive discussion on Why Students Plateau at B Grades. Part of the CuriousLab — Making Science Click podcast series.</description>
+      <pubDate>Fri, 06 Mar 2026 14:13:37 GMT</pubDate>
+      <guid isPermaLink="false">curiouslab-20260306141337-ep15</guid>
+      <enclosure url="https://curiouslabsg.github.io/curiouslab-podcast-rss/audio/07MAR2026_Why_Students_Plateau_at_B_Grades_Podcast.mp3" length="17493743" type="audio/mpeg"/>
+      <itunes:duration>20:20</itunes:duration>
+      <itunes:summary>A deep-dive discussion on Why Students Plateau at B Grades. Part of the CuriousLab — Making Science Click podcast series.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>15</itunes:episode>
+    </item>
     <item>
       <title>Kinetic Model of Matter</title>
       <description>A deep-dive discussion on Kinetic Model of Matter. Part of the CuriousLab — Making Science Click podcast series.</description>
